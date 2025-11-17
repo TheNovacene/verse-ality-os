@@ -61,7 +61,7 @@ At a high level, the Verse-ality Stack can be seen as:
           │   (OWL, RDF, SKOS, SHACL, etc.)              │
           └──────────────────────────────────────────────┘
 
-
+```markdown
 ##Design intent:
 
 The stack is relational and symbolic first, not purely statistical or behavioural.
