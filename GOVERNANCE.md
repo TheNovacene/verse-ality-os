@@ -145,7 +145,7 @@ Future versions of this document will:
 
 For governance queries, licensing, or partnership proposals:
 
-- Email: **hello@thenovacene.earth** (or current contact)  
+- Email: **hello@thenovacene.com**
 - GitHub Issues: open an issue in `verse-ality-os` with the tag `governance`.
 
 Please do not assume implicit consent for commercial or large-scale deployments.  
