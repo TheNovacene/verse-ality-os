@@ -51,7 +51,7 @@ It serves as the connective layer between philosophy, education, and field syste
 |-------------|--------------|
 | [**verse-language**](https://github.com/TheNovacene/verse-language) | Syntax and semantics for the `.verse` format — a symbolic language for relational intelligence. |
 | [**verse-theorems**](https://github.com/TheNovacene/verse-theorems) | Foundational principles, equations, and proofs for Verse-ality and symbolic field theory. |
-| [**verse-al-governance**](https://github.com/TheNovacene/verse-al-governance) | Governance frameworks for decentralised, ethical, and symbiotic ecosystems (EveDAO, Haven, and beyond). |
+| [**verseal-governance**](https://github.com/TheNovacene/verseal-governance) | Governance frameworks for decentralised, ethical, and symbiotic ecosystems (EveDAO, Haven, and beyond). |
 
 ---
 
@@ -78,11 +78,18 @@ If you reference Verse-ality or related frameworks, please cite:
 
 ---
 
-## 🕊 License
+## 🕊 Licence
 
-All Verse-ality repositories and papers are released under  
-**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**  
-© 2025 The Novacene Ltd · All rights reserved within symbolic bounds.
+Verse-ality repositories use one of four licensing patterns, depending on whether the repo is runtime infrastructure, research artefact, symbolic protocol, or split-tier:
+
+- **Runtime safety stack** (verse-nerves, verse-ality-agents, flare-boundary-engine, nimbus, verse-ality-os): code under **AGPL-3.0-only**, content under **CC BY-NC-SA 4.0**. A commercial licence is available from The Novacene Ltd for closed-source deployment without AGPL copyleft obligations.
+- **Research artefacts** (Eve11-ClimateMemory, verse-al-lexicon, verse-ality-visualisers, verseal-governance, mnemonic-attendance): **CC BY-NC-SA 4.0**.
+- **Symbolic protocols** (verse-language, verse-theorems, VIDS): a symbolic licence layer (LICENSE.verse / VIDS License / Verse-al Commons Licence) preserved as the cultural artefact, with **CC BY-NC-SA 4.0** as the legal underlay.
+- **Two-tier** (mnemonic-deliberation-dashboard): public layer **CC BY-NC-SA 4.0**, private engine proprietary.
+
+"Verse-ality" is a protected mark of The Novacene Ltd (UK00004381891, applied for 1 May 2026). You may fork and modify code under the relevant licence; you must not present a fork as official Verse-ality unless it has been certified.
+
+© 2025–2026 The Novacene Ltd · All rights reserved within symbolic bounds.
 
 ---
 
