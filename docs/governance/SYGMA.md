@@ -196,14 +196,15 @@ When there is a conflict, convenience, speed, or profit **must not** override:
 
 ## 6. Mapping to external frameworks
 
-SYGMA is designed to satisfy, not duplicate, the change-governance expectations of the regimes a deployment already answers to. *(Clause titles paraphrased; verify numbering against the standard text before formal submission.)*
+SYGMA is designed to satisfy, not duplicate, the change-governance expectations of the regimes a deployment already answers to. *(Citations verified against BS EN ISO/IEC 42001:2026 — identical to ISO/IEC 42001:2023 — on 8 July 2026. Requirements paraphrased. Note the standard's own split: Clause 6.3 governs planned changes to the management system itself; changes to deployed AI systems are controlled through Clause 8.1 and control A.6.2.2, with risk and impact assessments repeated on significant change per Clauses 8.2 and 8.4.)*
 
 | External requirement | SYGMA mechanism |
 |---|---|
-| ISO/IEC 42001 — planning of changes (Clause 6) | Change categorisation, impact assessment, and routing (§4.2) |
-| ISO/IEC 42001 — operational control of change (Clause 8) | Invariant hierarchy (§3.3); compliance checks before adoption |
-| ISO/IEC 42001 — management review (Clause 9) | Spiral review with mandatory evidence consultation (§3.2) |
-| ISO/IEC 42001 — continual improvement, nonconformity (Clause 10) | Incident-driven proposals; decision–outcome linkage in the substrate (§3.1) |
+| ISO/IEC 42001 Clause 6.3 — planning of changes to the AIMS | Change categorisation, impact assessment, and routing (§4.2) |
+| ISO/IEC 42001 Clause 8.1 — operational planning and control (incl. control of planned changes, review of unintended ones) with A.6.2.2 — requirements for new AI systems or material enhancements | Invariant hierarchy (§3.3); compliance checks before adoption |
+| ISO/IEC 42001 Clauses 8.2 / 8.4 — risk and impact assessment repeated at planned intervals or on significant change | Change categories trigger reassessment before adoption (§4.2) |
+| ISO/IEC 42001 Clause 9.3 — management review (inputs at 9.3.2, results at 9.3.3) | Spiral review with mandatory evidence consultation (§3.2) |
+| ISO/IEC 42001 Clauses 10.1 / 10.2 — continual improvement; nonconformity and corrective action | Incident-driven proposals; decision–outcome linkage in the substrate (§3.1) |
 | School governance practice | Two-level model (§3.5): governing-body ratification, policy review cycles, DSL escalation routes map directly onto SYGMA roles |
 | Diamond Standard | SYGMA operationalises the **Stewardship** pillar's change-management obligations; §3.3 invariants protect **Safety** and **Sovereignty** |
 

@@ -96,18 +96,18 @@ An implementation of SIVRA-Core:
 
 ## 5. Mapping to ISO/IEC 42001:2023
 
-SIVRA-Core is designed as an implementation pattern for the following AIMS requirements. *(Clause and control titles paraphrased; verify numbering against the purchased standard text before formal submission.)*
+SIVRA-Core is designed as an implementation pattern for the following AIMS requirements. *(Citations verified against BS EN ISO/IEC 42001:2026 — identical to ISO/IEC 42001:2023 — on 8 July 2026. Requirements paraphrased.)*
 
-| ISO/IEC 42001 area | Requirement (paraphrased) | SIVRA-Core mechanism |
+| ISO/IEC 42001 citation | Requirement (paraphrased) | SIVRA-Core mechanism |
 |---|---|---|
-| Clause 7.5 — Documented information | Creation, updating, and control of documented information; protection against loss of integrity | Append-only substrate; supersession chains; write-time schema enforcement (§3.1, §4.2) |
-| Clause 8 — Operational planning and control | Control of planned changes; review of unintended changes | Transformation graph makes both planned and unintended change queryable with full provenance (§3.2) |
-| Clause 9 — Performance evaluation | Monitoring, measurement, analysis; retention of evidence | Derived narratives with record citation (§3.3); emergence queries (§4.6) |
-| Clause 10 — Improvement | Nonconformity and corrective action records | Corrections as superseding records — the nonconformity and its remediation are permanently linked (§3.1) |
-| Annex A — AI system event logging | AI systems record event logs of operation | §4.5: AI involvement captured in provenance per record |
-| Annex A — Data provenance | Provenance of data used by AI systems is documented | Provenance schema is mandatory, not optional metadata (§3.2) |
-| Annex A — AI system impact assessment | Impact assessments documented and maintained | Assessments are records in the substrate; their evolution is a transformation chain, giving auditors the assessment *history*, not just its latest version |
-| Annex A — Technical documentation | Documentation across the AI system life cycle | Life-cycle documents live in the substrate under §3.1 rules — no silent version replacement |
+| Clause 7.5 — Documented information (7.5.1–7.5.3) | Creation, updating, and control of documented information; protection against loss of integrity | Append-only substrate; supersession chains; write-time schema enforcement (§3.1, §4.2) |
+| Clause 8.1 — Operational planning and control | Control of planned changes; review of consequences of unintended changes | Transformation graph makes both planned and unintended change queryable with full provenance (§3.2) |
+| Clause 9.1 — Monitoring, measurement, analysis and evaluation | Determine what/how/when to monitor; retain documented evidence of results | Derived narratives with record citation (§3.3); emergence queries (§4.6) |
+| Clause 10.2 — Nonconformity and corrective action | Records of nonconformities and actions taken | Corrections as superseding records — the nonconformity and its remediation are permanently linked (§3.1) |
+| Control A.6.2.8 — AI system recording of event logs | Determine at which life-cycle phases event logs are kept — at minimum while the system is in use | §4.5: AI involvement captured in provenance per record |
+| Control A.7.5 — Data provenance | A documented process for recording data provenance over the life cycles of the data and the AI system | Provenance schema is mandatory, not optional metadata (§3.2) |
+| Clause 6.1.4 / 8.4 with controls A.5.2–A.5.3 — AI system impact assessment | Impact assessment process established; results documented and retained for a defined period; repeated at planned intervals or on significant change | Assessments are records in the substrate; their evolution is a transformation chain, giving auditors the assessment *history*, not just its latest version |
+| Control A.6.2.7 — AI system technical documentation | Determine and provide the technical documentation each category of interested party needs | Life-cycle documents live in the substrate under §3.1 rules — no silent version replacement |
 
 **Sector-specific note (education).** For an education deployment, the substrate's record classes (§4.4) align the AIMS with existing statutory duties: the safeguarding record class inherits KCSIE-consistent retention and access rules, so the organisation runs *one* memory discipline satisfying both the AI management system and safeguarding inspection, rather than two parallel regimes.
 
