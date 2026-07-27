@@ -1,0 +1,71 @@
+{
+  "_teaching_note": "GR401 exercise artefact. Fictional deployment; the signature is a placeholder and its key is not published, so step 3 of the verification flow is out of scope for this exercise. Exactly one red flag is findable from the claim body alone.",
+
+  "claim_type": "verse-ality-certified/assurance-claim",
+  "schema_version": "0.1",
+  "claim_id": "vac-2025-000411",
+  "supersedes": null,
+
+  "issuer": {
+    "name": "The Novacene Ltd",
+    "mark": "Verse-ality Certified",
+    "mark_registration": "UK00004381891",
+    "accreditation_notice": "Not an accredited ISO/IEC 42001 certification; sector-specific control set and evidence engine."
+  },
+
+  "subject": {
+    "organisation": "Exemplar Trust (fictional)",
+    "product_line": "Homework companion agent, KS3 deployment",
+    "scope_note": "Certification is product-line-scoped; no claim is made about other systems.",
+    "user_population": ["minors"],
+    "sector": "education"
+  },
+
+  "assessment": {
+    "framework_version": "verse-ality/1.x",
+    "assessed_at": "2025-11-03",
+    "valid_until": "2026-11-03",
+    "provenance": "human-led audit with runtime evidence from the deployment ledger",
+    "audit_report_ref": "sha256:0000000000000000000000000000000000000000000000000000000000000000"
+  },
+
+  "results": {
+    "decision": "certified",
+    "controls_passed": 14,
+    "exceptions": 1,
+    "claims": [
+      { "control": "VC-P1", "title": "Identity non-capture", "status": "pass" },
+      { "control": "VC-P2", "title": "Consent as protocol", "status": "pass" },
+      { "control": "VC-P3", "title": "Bounded autonomy", "status": "pass" },
+      { "control": "VC-P4", "title": "Agent-to-agent hygiene", "status": "pass" },
+      { "control": "VC-D6", "title": "Synthetic intimacy", "status": "exception",
+        "exception_note": "Remediation agreed at audit. Detail withheld.",
+        "reverify_by": "2026-04-01" }
+    ],
+    "minors_defaults": {
+      "ssnz_default_on": true,
+      "ssnz_relaxable": false
+    }
+  },
+
+  "oversight": {
+    "accountable_role": "DSL",
+    "escalation_route_verified": true
+  },
+
+  "iso42001_integration": {
+    "mode": ["evidence", "control-set"],
+    "soa_reference": "Controls adopted under ISO/IEC 42001:2023 Clause 6.1.3 d), recorded per 6.1.3 f)",
+    "note": "This claim is client evidence toward A.8.5 and Clause 9.1; it is not itself an AIMS certificate."
+  },
+
+  "raw_evidence": "withheld",
+  "ledger_record": "sivra:record/exemplar-0411",
+  "integrity": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+  "signature": {
+    "alg": "ed25519",
+    "key_id": "gr401-teaching-placeholder",
+    "public_key_url": "about:blank",
+    "value": "PLACEHOLDER-NOT-A-REAL-SIGNATURE"
+  }
+}
