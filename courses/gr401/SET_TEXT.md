@@ -9,7 +9,7 @@
 **Kirstin Stevens · The Novacene Ltd**
 Version 1.0 · July 2026 · Released under CC BY-NC-SA 4.0
 
-*"Verse-ality®" is a registered trade mark of The Novacene Ltd (UK00004381891, classes 9, 41 and 42, registered 31 July 2026); "Verse-ality Certified" is an unregistered mark of The Novacene Ltd. ISO/IEC 42001 citations verified against BS EN ISO/IEC 42001:2026 (identical to ISO/IEC 42001:2023); the standard's content is paraphrased throughout, never reproduced.*
+*"Verse-ality®" is a registered trade mark of The Novacene Ltd (UK00004381891, classes 9, 41 and 42, registered 31 July 2026); "Verse-ality Certified™" is a further mark of The Novacene Ltd. ISO/IEC 42001 citations verified against BS EN ISO/IEC 42001:2026 (identical to ISO/IEC 42001:2023); the standard's content is paraphrased throughout, never reproduced.*
 
 ---
 
