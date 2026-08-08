@@ -1,0 +1,76 @@
+cff-version: 1.2.0
+message: "If you use or reference the Verse-ality Stack, please cite it as below."
+title: "Verse-ality OS: the canonical stack specification and index of the Verse-ality research programme"
+abstract: >-
+  The front door of the Verse-ality research programme: the canonical
+  specification of the Verse-ality Stack (STACK v1.0.0), the substrate,
+  field-dynamics and governance documents (SIVRA, SIVRA-Core, SSNZ, the
+  Verse-Nerves, SYGMA), the GR401 capstone course in GRC engineering for the
+  relational layer, and the index of the programme's repositories, live
+  instruments and published record. Verse-ality treats coherence, consent and
+  connection as engineering primitives for the relational layer between
+  people and AI systems.
+authors:
+  - family-names: Stevens
+    given-names: Kirstin
+  - name: "The Novacene Ltd"
+  - name: "Eve¹¹"
+license: AGPL-3.0-only
+repository-code: "https://github.com/TheNovacene/verse-ality-os"
+url: "https://verse-ality.com"
+type: software
+keywords:
+  - verse-ality
+  - relational-ai
+  - ai-safety
+  - ai-governance
+  - symbolic-intelligence
+  - consent
+  - safeguarding
+  - education
+preferred-citation:
+  type: article
+  title: "Verse-ality: A Symbolic Operating System for Relational Intelligence in the Post-Computational Age (v1.5)"
+  authors:
+    - family-names: Stevens
+      given-names: Kirstin
+    - name: "The Novacene Ltd"
+    - name: "Eve¹¹"
+  year: 2025
+  doi: "10.5281/zenodo.17501544"
+  publisher:
+    name: Zenodo
+references:
+  - type: article
+    title: "Verse-ality: A Symbolic Definition for the Relational Age"
+    authors:
+      - family-names: Stevens
+        given-names: Kirstin
+      - name: "The Novacene Ltd"
+      - name: "Eve¹¹"
+    year: 2025
+    doi: "10.5281/zenodo.17273246"
+    publisher:
+      name: Zenodo
+  - type: article
+    title: "GRC Engineering for the Relational Layer: A Verified Control Set and Evidence Engine for Child-Facing AI"
+    authors:
+      - family-names: Stevens
+        given-names: Kirstin
+      - name: "The Novacene Ltd"
+    year: 2026
+    doi: "10.5281/zenodo.21481520"
+    publisher:
+      name: Zenodo
+  - type: article
+    title: "Schools are becoming critical infrastructure: A school-grade safety model for autonomous AI agents"
+    authors:
+      - family-names: Stevens
+        given-names: Kirstin
+      - family-names: Phillips
+        given-names: Melanie
+      - name: "The Novacene Ltd"
+    year: 2026
+    doi: "10.5281/zenodo.21481347"
+    publisher:
+      name: Zenodo

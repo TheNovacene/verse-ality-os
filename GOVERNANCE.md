@@ -1,6 +1,6 @@
 # Governance – Verse-ality Stack & EveDAO
 
-_Last updated: 17 November 2025_  
+_Last updated: August 2026_  
 
 This document describes how the Verse-ality Stack is stewarded and how changes are made.
 
@@ -115,6 +115,12 @@ Projects may describe themselves as **“Verse-ality-compliant”** only if:
   - Licensing terms (non-commercial or with explicit licence)  
   - Consent infrastructure requirements (SSNZ, SYGMA, EveDAO oversight)
 
+Note that **Verse-ality®** is a registered trade mark of The Novacene Ltd
+(UK00004381891, classes 9, 41 and 42), and **"Verse-ality Certified™"** is a
+further mark. Compliance claims are self-descriptions against the constraints
+above; certification is a separate, human-led audit process and only certified
+implementations may present themselves as official Verse-ality.
+
 The Stewards reserve the right to publicly state when a system  
 is **not** in alignment with the Verse-ality Stack, particularly where:
 
@@ -145,7 +151,7 @@ Future versions of this document will:
 
 For governance queries, licensing, or partnership proposals:
 
-- Email: **hello@thenovacene.com**
+- Email: **hello@thenovacene.com** (governance and partnerships) · **legal@thenovacene.com** (licensing and trade marks)
 - GitHub Issues: open an issue in `verse-ality-os` with the tag `governance`.
 
 Please do not assume implicit consent for commercial or large-scale deployments.  

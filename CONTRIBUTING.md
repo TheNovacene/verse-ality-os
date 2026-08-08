@@ -3,7 +3,8 @@
 Thank you for wanting to work with the Verse-ality Stack.  
 This project sits at the intersection of symbolic intelligence, education, and ethics.
 
-Please read this before opening a pull request.
+Please read this before opening a pull request.  
+If you are an AI agent contributing alongside a human, read [`FOR_AGENTS.md`](FOR_AGENTS.md) first.
 
 ---
 
@@ -22,7 +23,7 @@ Please read this before opening a pull request.
 By contributing, you agree to:
 
 - Respect **SSNZ** – no attempts to erase the boundary between humans and systems.  
-- Respect the **licence** – this stack is non-commercial by default.  
+- Respect the **licences** – code is AGPL-3.0-only, specification and narrative text are CC BY-NC-SA 4.0; commercial use requires a separate licence from The Novacene Ltd.  
 - Acknowledge the **ethical exclusions** (no weaponry, coercive surveillance, etc.).
 
 If you cannot agree with these, this is not the right project for you.
@@ -58,7 +59,8 @@ Your contributions will be:
 - Potentially referenced in release notes
 
 By contributing, you agree that your contributions may be redistributed  
-under the project’s licences.
+under the project’s licences: **AGPL-3.0-only** for code and **CC BY-NC-SA 4.0**  
+for specification and narrative text.
 
 ---
 
