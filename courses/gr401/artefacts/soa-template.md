@@ -59,7 +59,7 @@ Status key: **I** = included and implemented · **P** = included, implementation
 
 ## Part 2 — Sector-specific controls: the Verse-ality Certified control set
 
-Adopted under Clause 6.1.3 d) as controls from an existing source: **Verse-ality** (The Novacene Ltd; "Verse-ality" and "Verse-ality Certified" are protected marks, UK00004381891). These controls address relational failure modes in child-facing and education deployments that the Annex A reference set does not name: identity fusion, synthetic intimacy, trust capture, engineered dependency, inter-agent enmeshment. Each control is testable in a Verse-ality Certified audit and evidences into the same AIMS records as Part 1.
+Adopted under Clause 6.1.3 d) as controls from an existing source: **Verse-ality** (The Novacene Ltd; "Verse-ality®" is a registered trade mark, UK00004381891, classes 9, 41 and 42; "Verse-ality Certified" is an unregistered mark). These controls address relational failure modes in child-facing and education deployments that the Annex A reference set does not name: identity fusion, synthetic intimacy, trust capture, engineered dependency, inter-agent enmeshment. Each control is testable in a Verse-ality Certified audit and evidences into the same AIMS records as Part 1.
 
 ### 2.1 Pillar controls
 

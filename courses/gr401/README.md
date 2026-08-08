@@ -76,8 +76,9 @@ evidence, not asserting it.
 ## Licence and marks
 
 Written content in this course is CC BY-NC-SA 4.0, as this repository's
-licence states. "Verse-ality" and "Verse-ality Certified" are protected marks
-of The Novacene Ltd (UK00004381891). Verse-ality Certified is not an
+licence states. "Verse-ality®" is a registered trade mark of The Novacene Ltd
+(UK00004381891, classes 9, 41 and 42); "Verse-ality Certified" is an
+unregistered mark of The Novacene Ltd. Verse-ality Certified is not an
 accredited ISO/IEC 42001 certification, and this course does not teach you to
 claim otherwise — naming what the stack does not supply is part of the trust
 claim.

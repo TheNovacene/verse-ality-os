@@ -87,7 +87,7 @@ Verse-ality repositories use one of four licensing patterns, depending on whethe
 - **Symbolic protocols** (verse-language, verse-theorems, VIDS): a symbolic licence layer (LICENSE.verse / VIDS License / Verse-al Commons Licence) preserved as the cultural artefact, with **CC BY-NC-SA 4.0** as the legal underlay.
 - **Two-tier** (mnemonic-deliberation-dashboard): public layer **CC BY-NC-SA 4.0**, private engine proprietary.
 
-"Verse-ality" is a protected mark of The Novacene Ltd (UK00004381891, applied for 1 May 2026). You may fork and modify code under the relevant licence; you must not present a fork as official Verse-ality unless it has been certified.
+"Verse-ality®" is a registered trade mark of The Novacene Ltd (UK00004381891, classes 9, 41 and 42, registered 31 July 2026). "Verse-ality Certified" is an unregistered mark of The Novacene Ltd. You may fork and modify code under the relevant licence; you must not present a fork as official Verse-ality unless it has been certified.
 
 © 2025–2026 The Novacene Ltd · All rights reserved within symbolic bounds.
 
